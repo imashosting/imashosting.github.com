@@ -9,12 +9,7 @@ $img = null;
 if (substr($folder,-1) != '/') {
 	$folder = $folder.'/';
 }
-$imageNumber = rand(0, 1000);
-if($imageNumber<15){
-$folder = $folder.'SSR/';
-} else {
 $folder = $folder.'takamoriaiko/';
-}
 if (isset($_GET['img'])) {
 	$imageInfo = pathinfo($_GET['img']);
 	if (
