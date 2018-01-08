@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[test](https://imashosting.github.io/randomimage/index).
+[takamoriaiko](https://imashosting.github.io/randomimage/takamoriaiko.php).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
